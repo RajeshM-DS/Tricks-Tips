@@ -1,0 +1,7 @@
+/*****************Reverse Engineering of Deep learning Models ****************************/
+
+1)Create / load / Train the DS model in ---> https://teachablemachine.withgoogle.com/
+2)Export the model into .h5 file (keras)
+
+3)Open the Netron App ---> https://www.electronjs.org/apps/netron
+4)See the Layers of CNN or any deep learning networks layers
