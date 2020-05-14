@@ -1,2 +1,2 @@
 # Tricks-Tips
-This repository contains python Programming tricks for data science people
+This repository contains python programming tips / new information for data science people
