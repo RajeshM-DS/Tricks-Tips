@@ -1,0 +1,23 @@
+1) Install jupyter-themes - 
+
+- using anaconda (conda install -c conda-forge jupyterthemes) 
+
+- using pip (pip install jupyterthemes) 
+
+2) Check list of themes - 
+
+>> jt -l  
+
+3) Select a theme 
+
+>> jt -t chesterish 
+
+		OR
+
+3) Change the theme,cell width, cell height
+
+>> jt -t chesterish -cellw 100% lineh 170
+
+4) To restore to default theme - 
+
+>> jt -r
