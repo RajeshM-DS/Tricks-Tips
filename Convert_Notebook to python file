@@ -1,0 +1,9 @@
+!pip install ipynb-py-convert
+
+""" .ipynb --> .py """
+
+ipynb-py-convert folder/timeseries.ipynb folder/timeseries.py
+
+""" .py --> .ipynb """
+
+ipynb-py-convert folder/timeseries.py folder/timeseries.ipynb
